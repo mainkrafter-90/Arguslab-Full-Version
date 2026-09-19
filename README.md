@@ -236,4 +236,4 @@ This repository serves as the official landing page for ArgusLab. The software i
 **Get the most recent version of ArgusLab today!**
 
 ---
-**Last updated:** 2026-09-19 08:37:43 UTC
+**Last updated:** 2026-09-19 12:56:20 UTC
